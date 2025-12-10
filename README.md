@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Visit here](https://github.com/Lakhwinderr/Frontend-Mentor---Social-links-profile)
+- Live Site URL: [Visit here](https://your-live-site-url.com)
 
 ## My process
 - Separated the visual components to node like structure and worked individually on each node.
