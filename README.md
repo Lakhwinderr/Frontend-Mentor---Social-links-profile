@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Visit here](https://github.com/Lakhwinderr/Frontend-Mentor---Social-links-profile)
-- Live Site URL: [Visit here](https://your-live-site-url.com)
+- Live Site URL: [Visit here](https://frontend-mentor-social-links-profil-seven.vercel.app)
 
 ## My process
 - Separated the visual components to node like structure and worked individually on each node.
